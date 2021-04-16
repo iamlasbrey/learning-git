@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TODOS
+=======
+SIMPLE TODO
+>>>>>>> 804ace0b8d6037f25480aee3a9116260ff08c2e7
